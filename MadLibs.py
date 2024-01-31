@@ -92,7 +92,7 @@ class program():
     def main(self):
         self.win = tk.Tk()
         self.win.title("MadLibs")
-        self.win.iconbitmap("D:\I am the Developer\Python\Tkinter\Madlibs.ico")
+        self.win.iconbitmap("Madlibs.ico")
         width  = int((self.win.winfo_screenwidth() - 500)/2)
         height = int((self.win.winfo_screenheight()- 200)/2)
         self.win.geometry(f"500x200+{width}+{height}")
@@ -142,7 +142,7 @@ class program():
     def main2(self):
         self.root = tk.Tk()
         self.root.title("MadLibs")
-        self.root.iconbitmap("D:\I am the Developer\Python\Tkinter\Madlibs.ico")
+        self.root.iconbitmap("Madlibs.ico")
         width  = int((self.root.winfo_screenwidth() - 500)/2)
         height = int((self.root.winfo_screenheight()- 200)/2)
         self.root.geometry(f"500x200+{width}+{height}")
@@ -195,7 +195,7 @@ class program():
     def main3(self):
         self.root3 = tk.Tk()
         self.root3.title("MadLibs")
-        self.root3.iconbitmap("D:\I am the Developer\Python\Tkinter\Madlibs.ico")
+        self.root3.iconbitmap("Madlibs.ico")
         width  = int((self.root3.winfo_screenwidth() - 500)/2)
         height = int((self.root3.winfo_screenheight()- 200)/2)
         self.root3.geometry(f"500x200+{width}+{height}")
@@ -248,7 +248,7 @@ class program():
     def main4(self):
         self.root4 = tk.Tk()
         self.root4.title("MadLibs")
-        self.root4.iconbitmap("D:\I am the Developer\Python\Tkinter\Madlibs.ico")
+        self.root4.iconbitmap("Madlibs.ico")
         width  = int((self.root4.winfo_screenwidth() - 500)/2)
         height = int((self.root4.winfo_screenheight()- 200)/2)
         self.root4.geometry(f"500x200+{width}+{height}")
@@ -301,7 +301,7 @@ class program():
     def main5(self):
         self.root5 = tk.Tk()
         self.root5.title("MadLibs")
-        self.root5.iconbitmap("D:\I am the Developer\Python\Tkinter\Madlibs.ico")
+        self.root5.iconbitmap("Madlibs.ico")
         width  = int((self.root5.winfo_screenwidth() - 700)/2)
         height = int((self.root5.winfo_screenheight()- 400)/2)
         self.root5.geometry(f"700x400+{width}+{height}")
